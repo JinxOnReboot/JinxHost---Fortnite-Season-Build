@@ -10,3 +10,24 @@ You are **not required to download anything** from this repository. The goal is 
 If, at some point, other download links are no longer available, these links can be used as a **last resort** to retrieve the files.
 
 Thank you for downloading seasons from this GitHub repository. Have a great day.
+
+# Jinx Archive
+## Season 1
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 1.07.2 | Lost | [Reboot](https://builds.rebootfn.org/windows-1.7.2.zip)
+
+## Season 2
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 2.01 | Lost | [Reboot](https://builds.rebootfn.org/windows-2.1.0.zip)
+
+## Season 3
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 3.00 | Lost | [Reboot](https://builds.rebootfn.org/windows-3.0.zip)
+
+## Season 8
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 8.51 | [JinxArchive](https://bstlar.com/18229/8.51) | [Reboot](soon)
