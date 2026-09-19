@@ -14,8 +14,6 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 # Jinx Archive
 # Fortnite Builds Archive
 
-Bienvenue sur l'archive des builds de Fortnite. Ce tableau répertorie les versions connues et leur disponibilité.
-
 ## Chapitre 1
 
 ### Season 1
