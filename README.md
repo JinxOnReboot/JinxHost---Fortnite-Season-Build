@@ -12,22 +12,441 @@ If, at some point, other download links are no longer available, these links can
 Thank you for downloading seasons from this GitHub repository. Have a great day.
 
 # Jinx Archive
-## Season 1
-| Build | JinxArchive | Alternative |
-| :--- | :--- | :--- |
-| 1.07.2 | Lost | [Reboot](https://builds.rebootfn.org/windows-1.7.2.zip)
+# Fortnite Builds Archive
 
-## Season 2
-| Build | JinxArchive | Alternative |
-| :--- | :--- | :--- |
-| 2.01 | Lost | [Reboot](https://builds.rebootfn.org/windows-2.1.0.zip)
+Bienvenue sur l'archive des builds de Fortnite. Ce tableau répertorie les versions connues et leur disponibilité.
 
-## Season 3
-| Build | JinxArchive | Alternative |
-| :--- | :--- | :--- |
-| 3.00 | Lost | [Reboot](https://builds.rebootfn.org/windows-3.0.zip)
+## Chapitre 1
 
-## Season 8
+### Season 1
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
-| 8.51 | [JinxArchive](https://bstlar.com/18229/8.51) | [Reboot](soon)
+| 1.02 | Lost | [Reboot](https://builds.rebootfn.org/windows-1.02.rar) |
+| 1.07.2 | Lost | [Reboot]() |
+| 1.08 | Lost | [Reboot]() |
+| 1.09 | Lost | [Reboot]() |
+| 1.10 | Lost | [Reboot]() |
+| 1.11 | Lost | [Reboot]() |
+
+### Season 2
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 2.00 | Lost | [Reboot]() |
+| 2.01 | Lost | [Reboot]() |
+| 2.02 | Lost | [Reboot]() |
+| 2.03 | Lost | [Reboot]() |
+| 2.04 | Lost | [Reboot]() |
+| 2.05 | Lost | [Reboot]() |
+
+### Season 3
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 3.00 | Lost | [Reboot]() |
+| 3.01 | Lost | [Reboot]() |
+| 3.02 | Lost | [Reboot]() |
+| 3.03 | Lost | [Reboot]() |
+| 3.04 | Lost | [Reboot]() |
+| 3.05 | Lost | [Reboot]() |
+| 3.06 | Lost | [Reboot]() |
+
+### Season 4
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 4.00 | Lost | [Reboot]() |
+| 4.01 | Lost | [Reboot]() |
+| 4.02 | Lost | [Reboot]() |
+| 4.03 | Lost | [Reboot]() |
+| 4.04 | Lost | [Reboot]() |
+| 4.05 | Lost | [Reboot]() |
+
+### Season 5
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 5.00 | Lost | [Reboot]() |
+| 5.10 | Lost | [Reboot]() |
+| 5.20 | Lost | [Reboot]() |
+| 5.21 | Lost | [Reboot]() |
+| 5.30 | Lost | [Reboot]() |
+| 5.40 | Lost | [Reboot]() |
+| 5.41 | Lost | [Reboot]() |
+
+### Season 6
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 6.00 | Lost | [Reboot]() |
+| 6.01 | Lost | [Reboot]() |
+| 6.02 | Lost | [Reboot]() |
+| 6.10 | Lost | [Reboot]() |
+| 6.20 | Lost | [Reboot]() |
+| 6.21 | Lost | [Reboot]() |
+| 6.22 | Lost | [Reboot]() |
+| 6.30 | Lost | [Reboot]() |
+| 6.31 | Lost | [Reboot]() |
+
+### Season 7
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 7.00 | Lost | [Reboot]() |
+| 7.01 | Lost | [Reboot]() |
+| 7.10 | Lost | [Reboot]() |
+| 7.20 | Lost | [Reboot]() |
+| 7.30 | Lost | [Reboot]() |
+| 7.40 | Lost | [Reboot]() |
+
+### Season 8
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 8.00 | Lost | [Reboot]() |
+| 8.10 | Lost | [Reboot]() |
+| 8.20 | Lost | [Reboot]() |
+| 8.30 | Lost | [Reboot]() |
+| 8.40 | Lost | [Reboot]() |
+| 8.50 | Lost | [Reboot]() |
+| 8.51 | [JinxArchive](https://bstlar.com/18229/8.51) | [Reboot]() |
+
+### Season 9
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 9.00 | Lost | [Reboot]() |
+| 9.01 | Lost | [Reboot]() |
+| 9.10 | Lost | [Reboot]() |
+| 9.20 | Lost | [Reboot]() |
+| 9.21 | Lost | [Reboot]() |
+| 9.30 | Lost | [Reboot]() |
+| 9.40 | Lost | [Reboot]() |
+| 9.41 | Lost | [Reboot]() |
+
+### Season X (Season 10)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 10.00 | Lost | [Reboot]() |
+| 10.10 | Lost | [Reboot]() |
+| 10.20 | Lost | [Reboot]() |
+| 10.30 | Lost | [Reboot]() |
+| 10.31 | Lost | [Reboot]() |
+| 10.40 | Lost | [Reboot]() |
+
+---
+
+## Chapitre 2
+
+### Season 11 (C2S1)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 11.00 | Lost | [Reboot]() |
+| 11.01 | Lost | [Reboot]() |
+| 11.10 | Lost | [Reboot]() |
+| 11.11 | Lost | [Reboot]() |
+| 11.20 | Lost | [Reboot]() |
+| 11.21 | Lost | [Reboot]() |
+| 11.30 | Lost | [Reboot]() |
+| 11.31 | Lost | [Reboot]() |
+| 11.40 | Lost | [Reboot]() |
+
+### Season 12 (C2S2)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 12.00 | Lost | [Reboot]() |
+| 12.10 | Lost | [Reboot]() |
+| 12.20 | Lost | [Reboot]() |
+| 12.21 | Lost | [Reboot]() |
+| 12.30 | Lost | [Reboot]() |
+| 12.40 | Lost | [Reboot]() |
+| 12.41 | Lost | [Reboot]() |
+| 12.50 | Lost | [Reboot]() |
+| 12.60 | Lost | [Reboot]() |
+| 12.61 | Lost | [Reboot]() |
+
+### Season 13 (C2S3)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 13.00 | Lost | [Reboot]() |
+| 13.20 | Lost | [Reboot]() |
+| 13.30 | Lost | [Reboot]() |
+| 13.40 | Lost | [Reboot]() |
+
+### Season 14 (C2S4 - Marvel)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 14.00 | Lost | [Reboot]() |
+| 14.10 | Lost | [Reboot]() |
+| 14.20 | Lost | [Reboot]() |
+| 14.30 | Lost | [Reboot]() |
+| 14.40 | Lost | [Reboot]() |
+| 14.50 | Lost | [Reboot]() |
+| 14.60 | Lost | [Reboot]() |
+
+### Season 15 (C2S5)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 15.00 | Lost | N/A |
+| 15.10 | Lost | N/A |
+| 15.20 | Lost | N/A |
+| 15.21 | Lost | N/A |
+| 15.30 | Lost | N/A |
+| 15.40 | Lost | N/A |
+| 15.50 | Lost | N/A |
+
+### Season 16 (C2S6)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 16.00 | Lost | N/A |
+| 16.10 | Lost | N/A |
+| 16.20 | Lost | N/A |
+| 16.30 | Lost | N/A |
+| 16.40 | Lost | N/A |
+| 16.50 | Lost | N/A |
+
+### Season 17 (C2S7)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 17.00 | Lost | N/A |
+| 17.10 | Lost | N/A |
+| 17.20 | Lost | N/A |
+| 17.30 | Lost | N/A |
+| 17.40 | Lost | N/A |
+| 17.50 | Lost | N/A |
+
+### Season 18 (C2S8)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 18.00 | Lost | N/A |
+| 18.10 | Lost | N/A |
+| 18.20 | Lost | N/A |
+| 18.21 | Lost | N/A |
+| 18.30 | Lost | N/A |
+| 18.40 | Lost | N/A |
+
+---
+
+## Chapitre 3
+
+### Season 19 (C3S1)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 19.00 | Lost | N/A |
+| 19.01 | Lost | N/A |
+| 19.10 | Lost | N/A |
+| 19.20 | Lost | N/A |
+| 19.30 | Lost | N/A |
+| 19.40 | Lost | N/A |
+
+### Season 20 (C3S2)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 20.00 | Lost | N/A |
+| 20.10 | Lost | N/A |
+| 20.20 | Lost | N/A |
+| 20.30 | Lost | N/A |
+| 20.40 | Lost | N/A |
+
+### Season 21 (C3S3)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 21.00 | Lost | N/A |
+| 21.10 | Lost | N/A |
+| 21.20 | Lost | N/A |
+| 21.30 | Lost | N/A |
+| 21.40 | Lost | N/A |
+| 21.50 | Lost | N/A |
+| 21.51 | Lost | N/A |
+
+### Season 22 (C3S4)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 22.00 | Lost | N/A |
+| 22.10 | Lost | N/A |
+| 22.20 | Lost | N/A |
+| 22.30 | Lost | N/A |
+| 22.40 | Lost | N/A |
+
+---
+
+## Chapitre 4
+
+### Season 23 (C4S1)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 23.00 | Lost | N/A |
+| 23.10 | Lost | N/A |
+| 23.20 | Lost | N/A |
+| 23.30 | Lost | N/A |
+| 23.40 | Lost | N/A |
+| 23.50 | Lost | N/A |
+
+### Season 24 (C4S2 - Mega)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 24.00 | Lost | N/A |
+| 24.10 | Lost | N/A |
+| 24.20 | Lost | N/A |
+| 24.30 | Lost | N/A |
+| 24.40 | Lost | N/A |
+
+### Season 25 (C4S3 - Wilds)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 25.00 | Lost | N/A |
+| 25.10 | Lost | N/A |
+| 25.11 | Lost | N/A |
+| 25.20 | Lost | N/A |
+| 25.30 | Lost | N/A |
+
+### Season 26 (C4S4 - Last Resort)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 26.00 | Lost | N/A |
+| 26.10 | Lost | N/A |
+| 26.20 | Lost | N/A |
+| 26.30 | Lost | N/A |
+
+### Season 27 (Fortnite OG)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 27.00 | Lost | N/A |
+| 27.10 | Lost | N/A |
+| 27.11 | Lost | N/A |
+
+---
+
+## Chapitre 5
+
+### Season 28 (C5S1 - Underground)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 28.00 | Lost | N/A |
+| 28.01 | Lost | N/A |
+| 28.10 | Lost | N/A |
+| 28.20 | Lost | N/A |
+| 28.30 | Lost | N/A |
+
+### Season 29 (C5S2 - Myths & Mortals)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 29.00 | Lost | N/A |
+| 29.10 | Lost | N/A |
+| 29.20 | Lost | N/A |
+| 29.30 | Lost | N/A |
+| 29.40 | Lost | N/A |
+
+### Season 30 (C5S3 - Wrecked)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 30.00 | Lost | N/A |
+| 30.10 | Lost | N/A |
+| 30.20 | Lost | N/A |
+| 30.30 | Lost | N/A |
+| 30.40 | Lost | N/A |
+
+### Season 31 (C5S4 - Absolute Doom)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 31.00 | Lost | N/A |
+| 31.10 | Lost | N/A |
+| 31.20 | Lost | N/A |
+| 31.30 | Lost | N/A |
+| 31.40 | Lost | N/A |
+| 31.41 | Lost | N/A |
+
+### Season 32 (Chapter 2 Remix)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 32.00 | Lost | N/A |
+| 32.10 | Lost | N/A |
+| 32.11 | Lost | N/A |
+
+---
+
+## Chapitre 6
+
+### Season 33 (C6S1)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 33.00 | Lost | N/A |
+| 33.10 | Lost | N/A |
+| 33.20 | Lost | N/A |
+| 33.30 | Lost | N/A |
+| 33.40 | Lost | N/A |
+
+### Season 34 (C6S2)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 34.00 | Lost | N/A |
+| 34.10 | Lost | N/A |
+| 34.20 | Lost | N/A |
+| 34.30 | Lost | N/A |
+
+### Season 35 (C6S3)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 35.00 | Lost | N/A |
+| 35.10 | Lost | N/A |
+| 35.20 | Lost | N/A |
+| 35.30 | Lost | N/A |
+| 35.40 | Lost | N/A |
+
+### Season 36 (C6S4)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 36.00 | Lost | N/A |
+| 36.10 | Lost | N/A |
+| 36.20 | Lost | N/A |
+| 36.30 | Lost | N/A |
+| 36.40 | Lost | N/A |
+
+### Season 37 (C6S5 / Event)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 37.00 | Lost | N/A |
+| 37.10 | Lost | N/A |
+
+---
+
+## Chapitre 7
+
+### Season 38 (C7S1)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 38.00 | Lost | N/A |
+| 38.10 | Lost | N/A |
+| 38.20 | Lost | N/A |
+| 38.30 | Lost | N/A |
+| 38.40 | Lost | N/A |
+| 38.41 | Lost | N/A |
+
+### Season 39 (C7S2)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 39.00 | Lost | N/A |
+| 39.10 | Lost | N/A |
+| 39.20 | Lost | N/A |
+| 39.30 | Lost | N/A |
+| 39.40 | Lost | N/A |
+
+### Season 40 (C7S3)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 40.00 | Lost | N/A |
+| 40.10 | Lost | N/A |
+| 40.20 | Lost | N/A |
+| 40.30 | Lost | N/A |
+| 40.40 | Lost | N/A |
+| 40.41 | Lost | N/A |
+
+### Season 41 (C7S4)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 41.00 | Lost | N/A |
+| 41.10 | Lost | N/A |
+| 41.20 | Lost | N/A |
+| 41.30 | Lost | N/A |
+| 41.40 | Lost | N/A |
+
+### Season 42 (C7S5 / Actuel)
+| Build | JinxArchive | Alternative |
+| :--- | :--- | :--- |
+| 42.00 | Lost | N/A |
+| 42.10 | Lost | N/A |
+| 42.20 | Lost | N/A |
+
+
