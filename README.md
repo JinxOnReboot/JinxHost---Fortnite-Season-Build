@@ -240,7 +240,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | :--- | :--- | :--- |
 | 19.00 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-19.00.zip) [FortForge](https://dl.fortforge.co.uk/download/91c64a49-cb15-404f-83a0-704ed85f98ba/build) |
 | 19.01 | [JinxArchive](https://bstlar.com/18229/19.01) | [FortForge](https://dl.fortforge.co.uk/download/2442fe98-cbbb-45c0-8db0-927c9d706d22/build) [Archive.org](https://archive.org/download/Fortnite-19.01-CL-18489740.zip/19.01-CL-18489740.zip)|
-| 19.10 | Unvailable | [FortForge](https://dl.fortforge.co.uk/t/8d2efd429231a4fb92e5c81e24ba7d26d06622d7d18330e1) |
+| 19.10 | [JinxArchive](https://bstlar.com/18229/19.10) | [FortForge](https://dl.fortforge.co.uk/t/8d2efd429231a4fb92e5c81e24ba7d26d06622d7d18330e1) |
 | 19.20 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-19.20.zip) [FortForge](https://dl.fortforge.co.uk/download/ba41c36d-6b87-4776-ba21-02a87471b4cb/build) |
 | 19.30 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-19.30.rar) [FortForge](https://dl.fortforge.co.uk/download/a5251910-d1bc-4a43-9aa8-55b8ec8614e1/build) [Carbon](https://cdn.cbn.lol/19.30)|
 | 19.34 | Unvailable | Unvailable |
@@ -305,7 +305,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 25.00 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-25.00.zip) [FortForge](https://dl.fortforge.co.uk/download/a7d0b41b-0e30-466f-9ce4-fc1411356cb8/build)|
 | 25.10 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-25.10.zip) [FortForge](https://dl.fortforge.co.uk/download/f796e829-2901-4ca0-a7d2-4f022967012d/build)|
 | 25.11 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-25.11.zip) [FortForge](https://dl.fortforge.co.uk/download/368d5d9d-631e-4266-af68-55ac700db695/build)|
-| 25.20 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-25.20.zip) [FortForge](https://dl.fortforge.co.uk/download/91047ca0-62ab-48e9-8be2-00d8da40de65/build)|
+| 25.20 | [JinxArchive](https://bstlar.com/18229/25.20) | [Reboot](https://builds.rebootfn.org/windows-25.20.zip) [FortForge](https://dl.fortforge.co.uk/download/91047ca0-62ab-48e9-8be2-00d8da40de65/build)|
 | 25.30 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-25.30.zip) [FortForge](https://dl.fortforge.co.uk/download/b7fa8c51-a8e7-4ebc-9000-9d335325bdef/build)|
 
 ### Season 26 (C4S4 - Last Resort)
@@ -314,7 +314,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 26.00 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/89de68ac-05e9-4022-a6df-c40756de0b83/build) |
 | 26.10 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/6cc4cbdd-faf9-4b8c-b9cb-187ce8f13f5c/build) |
 | 26.20 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/ce0b5553-7c4a-4af2-9445-6ef1f811a698/build) |
-| 26.30 | Unvailable | [FnBuild.com](https://fn-builds.com/build/fortnite-26-30-cl-28509302-zip) |
+| 26.30 | [JinxArchive](https://bstlar.com/18229/26.30) | [FnBuild.com](https://fn-builds.com/build/fortnite-26-30-cl-28509302-zip) |
 
 ### Season 27 (Fortnite OG)
 | Build | JinxArchive | Alternative |
