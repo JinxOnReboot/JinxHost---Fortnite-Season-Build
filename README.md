@@ -103,7 +103,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 7.10 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-7.10.rar)  [FortForge](https://dl.fortforge.co.uk/download/bfeb4d10-4a66-41ea-bbfb-e321dba74f6c/build) [Fn-Builds.com](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTcuMTAtQ0wtNDY2NzMzMy5yYXI&start=1)|
 | 7.20 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-7.20.rar)  [FortForge](https://dl.fortforge.co.uk/download/d263d360-627c-470b-b89f-c2677a823515/build)|
 | 7.30 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-7.30.zip)  [FortForge](https://dl.fortforge.co.uk/download/839b239b-4a94-4559-9ca2-d658493ced6c/build)|
-| 7.40 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-7.40.rar)  [FortForge](https://dl.fortforge.co.uk/download/855fd721-fb75-43bd-b78a-d74b19a50301/build) [Archive.org](https://archive.org/download/7.40_20260909/7.40.zip)|
+| 7.40 | [JinxArchive](https://bstlar.com/18229/7.40) | [Reboot](https://builds.rebootfn.org/windows-7.40.rar)  [FortForge](https://dl.fortforge.co.uk/download/855fd721-fb75-43bd-b78a-d74b19a50301/build) [Archive.org](https://archive.org/download/7.40_20260909/7.40.zip)|
 
 ### Season 8
 | Build | JinxArchive | Alternative |
@@ -192,13 +192,13 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 ### Season 15 (C2S5)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
-| 15.00 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-15.00.zip)  [FortForge](https://dl.fortforge.co.uk/download/cf39b55a-41b9-41ab-aa64-ec074ea544a6/build)|
+| 15.00 | [JinxArchive](https://bstlar.com/18229/15.00) | [Reboot](https://builds.rebootfn.org/windows-15.00.zip)  [FortForge](https://dl.fortforge.co.uk/download/cf39b55a-41b9-41ab-aa64-ec074ea544a6/build)|
 | 15.10 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-15.10.zip)  [FortForge](https://dl.fortforge.co.uk/download/544ce049-61ba-4f58-bcbc-c013ebcb3bb4/build)  [Carbon](https://cdn.cbn.lol/15.10) [Fn-Builds.com](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTE1LjEwLUNMLTE1MDE0NzE5LnppcA&start=1)|
 | 15.20 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-15.20.zip)  [FortForge](https://dl.fortforge.co.uk/download/2a97ee62-a114-4863-8747-542a50d47273/build)|
 | 15.21 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-15.21.zip)  [FortForge](https://dl.fortforge.co.uk/download/594f7654-cbaf-4224-9259-aa7e770c61af/build)|
-| 15.30 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-15.30.zip)  [FortForge](https://dl.fortforge.co.uk/t/75cd738448576b19069f71fc9f51c5035ff14925017ac2ac)|
+| 15.30 | [JinxArchive](https://bstlar.com/18229/15.30) | [Reboot](https://builds.rebootfn.org/windows-15.30.zip)  [FortForge](https://dl.fortforge.co.uk/t/75cd738448576b19069f71fc9f51c5035ff14925017ac2ac)|
 | 15.40 | Unvailable | Unvailable |
-| 15.50 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-15.50.zip)  [FortForge](https://dl.fortforge.co.uk/download/67c17e33-9fd6-44b0-91c2-9a768cc03288/build) [Google Drive](https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view)|
+| 15.50 | [JinxArchive](https://bstlar.com/18229/15.50) | [Reboot](https://builds.rebootfn.org/windows-15.50.zip)  [FortForge](https://dl.fortforge.co.uk/download/67c17e33-9fd6-44b0-91c2-9a768cc03288/build) [Google Drive](https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view)|
 
 ### Season 16 (C2S6)
 | Build | JinxArchive | Alternative |
@@ -217,9 +217,9 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 17.10 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-17.10.zip)  [FortForge](https://dl.fortforge.co.uk/download/98450244-dff7-4acf-b794-97a8980fd98c/build)|
 | 17.20 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-17.20.zip)  [FortForge](https://dl.fortforge.co.uk/download/a7245821-6e30-461e-909c-73aa90418f03/build)|
 | 17.21 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-17.21.zip)  [FortForge](https://dl.fortforge.co.uk/download/77e5b41b-2b97-440f-8f06-e97df654d220/build)|
-| 17.30 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-17.30.zip)  [FortForge](https://dl.fortforge.co.uk/download/911ce59c-da59-4ee1-989c-dba9110f7e49/build)  [FortMp.dev](https://cdn.fortmp.dev/17.30.zip)  [Carbon](https://cdn.cbn.lol/17.30)|
+| 17.30 | [JinxArchive](https://bstlar.com/18229/17.30) | [Reboot](https://builds.rebootfn.org/windows-17.30.zip)  [FortForge](https://dl.fortforge.co.uk/download/911ce59c-da59-4ee1-989c-dba9110f7e49/build)  [FortMp.dev](https://cdn.fortmp.dev/17.30.zip)  [Carbon](https://cdn.cbn.lol/17.30)|
 | 17.40 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-17.40.zip)  [FortForge](https://dl.fortforge.co.uk/download/23ef9c56-2fa7-4ca2-baf3-4d87fff6d7f4/build)  [Carbon](https://cdn.cbn.lol/17.40)|
-| 17.50 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-17.50.zip)  [FortForge](https://fortforge.co.uk/download/895e2220-bf49-4ea4-a8db-a52ff699af73/build?brand=eon)  [Google Drive](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view)|
+| 17.50 | [JinxArchive](https://bstlar.com/18229/17.50) | [Reboot](https://builds.rebootfn.org/windows-17.50.zip)  [FortForge](https://fortforge.co.uk/download/895e2220-bf49-4ea4-a8db-a52ff699af73/build?brand=eon)  [Google Drive](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view)|
 
 ### Season 18 (C2S8)
 | Build | JinxArchive | Alternative |
@@ -260,7 +260,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | :--- | :--- | :--- |
 | 21.00 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-21.00.zip)  [FortForge](https://dl.fortforge.co.uk/t/8be022cfd4c511b3f92c484db1f97a0c376b8a1a91282185) [Fn-Builds.com](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTIxLjAwLUNMLTIwNDYzMTEzLjd6&start=1)|
 | 21.10 | [JinxArchive](https://bstlar.com/18229/21.10) | [Reboot](https://builds.rebootfn.org/windows-21.10.zip) [Fn-Builds.com](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTIxLjEwLUNMLTIwNjk2NjgwLnppcA&start=1) [FortForge](https://dl.fortforge.co.uk/download/a9a05db2-cbfb-4afc-af95-8668eb826108/build) |
-| 21.20 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-21.20.zip)  [FortForge](https://dl.fortforge.co.uk/download/71cf07a7-646d-4f90-9aa2-eaa89279f8ae/build)  [Carbon](https://cdn.cbn.lol/21.20)|
+| 21.20 | [JinxArchive](https://bstlar.com/18229/21.20) | [Reboot](https://builds.rebootfn.org/windows-21.20.zip)  [FortForge](https://dl.fortforge.co.uk/download/71cf07a7-646d-4f90-9aa2-eaa89279f8ae/build)  [Carbon](https://cdn.cbn.lol/21.20)|
 | 21.30 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-21.30.zip)  [FortForge](https://dl.fortforge.co.uk/download/635d0bf6-7718-48e1-8106-a80ec93cabb4/build)  [Carbon](https://cdn.cbn.lol/21.30)|
 | 21.40 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-21.40.zip)  [Carbon](https://cdn.cbn.lol/21.40)|
 | 21.50 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-21.50.zip)  [FortForge](https://dl.fortforge.co.uk/download/f1937854-2514-4236-a46a-550c292e8b2a/build)  [Carbon](https://cdn.cbn.lol/21.50)|
@@ -271,7 +271,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | :--- | :--- | :--- |
 | 22.00 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-22.00.zip)  [FortForge](https://dl.fortforge.co.uk/download/1701749a-ad06-4b2c-ae11-d8f60a47c6f6/build)  [Carbon](https://cdn.cbn.lol/22.00)|
 | 22.10 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-22.10.zip)  [Carbon](https://cdn.cbn.lol/22.10)|
-| 22.20 | Unvailable | [FUCKINGFAST](https://fuckingfast.net/rc9pwe41hyq7) |
+| 22.20 | [JinxArchive](https://bstlar.com/18229/22.20) | [FUCKINGFAST](https://fuckingfast.net/rc9pwe41hyq7) |
 | 22.30 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/d291143e-8aa6-4a97-8d30-5251b4f1bfe2/build) |
 | 22.40 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-22.40.zip) [Fn-Builds.com](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTIyLjQwLUNMLTIzMDcwODk5LnppcA&start=1) [Gofile](https://gofile.io/d/103fc009-2595-463f-926b-63c49f542dc6)  [Gofile 2](https://gofile.io/d/uwbcWq)|
 
@@ -282,7 +282,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 ### Season 23 (C4S1)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
-| 23.00 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/248a6df9-b267-4764-ad1c-ccae191f2c26/build) [Archive.org](https://archive.org/download/23.20-cl-23783097/23.00-CL-23344627.7z) |
+| 23.00 | [JinxArchive](https://bstlar.com/18229/23.00) | [FortForge](https://dl.fortforge.co.uk/download/248a6df9-b267-4764-ad1c-ccae191f2c26/build) [Archive.org](https://archive.org/download/23.20-cl-23783097/23.00-CL-23344627.7z) |
 | 23.10 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-23.10.rar)  [FortForge](https://dl.fortforge.co.uk/download/f7a013b2-dfe8-4a0b-93ee-121292909616/build) [Carbon](https://cdn.cbn.lol/23.10) [Archive.org](https://archive.org/download/23.20-cl-23783097/23.10-CL-23443094.rar) [Fn-Builds.com](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTIzLjEwLUNMLTIzNDQzMDk0Ljd6&start=1) [Fn-Builds.com 2](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTIzLjEwLUNMLTIzNTcyMjIxLjd6&start=1)|
 | 23.20 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-23.20.zip)  [FortForge](https://dl.fortforge.co.uk/download/47228000-d66b-4aa9-ab54-e5fa977a835e/build) [Archive.org](https://archive.org/download/23.20-cl-23783097/23.20-CL-23783097.zip)|
 | 23.30 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-23.30.zip)  [FortForge](https://dl.fortforge.co.uk/download/f8705320-6c83-433c-9aa5-ea3cd5d91eb8/build) [Archive.org](https://archive.org/download/23.20-cl-23783097/23.30-CL-23986860.zip)|
@@ -306,7 +306,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 25.10 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-25.10.zip) [FortForge](https://dl.fortforge.co.uk/download/f796e829-2901-4ca0-a7d2-4f022967012d/build)|
 | 25.11 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-25.11.zip)  [FortForge](https://dl.fortforge.co.uk/download/368d5d9d-631e-4266-af68-55ac700db695/build)|
 | 25.20 | [JinxArchive](https://bstlar.com/18229/25.20) | [Reboot](https://builds.rebootfn.org/windows-25.20.zip) [Fn-Builds.com](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTI1LjIwLUNMLTI2NjI5MTExLnppcA&start=1) [FortForge](https://dl.fortforge.co.uk/download/91047ca0-62ab-48e9-8be2-00d8da40de65/build)|
-| 25.30 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-25.30.zip)  [FortForge](https://dl.fortforge.co.uk/download/b7fa8c51-a8e7-4ebc-9000-9d335325bdef/build)|
+| 25.30 | [JinxArchive](https://bstlar.com/18229/25.30) | [Reboot](https://builds.rebootfn.org/windows-25.30.zip)  [FortForge](https://dl.fortforge.co.uk/download/b7fa8c51-a8e7-4ebc-9000-9d335325bdef/build)|
 
 ### Season 26 (C4S4 - Last Resort)
 | Build | JinxArchive | Alternative |
