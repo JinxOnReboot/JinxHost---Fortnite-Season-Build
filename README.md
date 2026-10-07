@@ -13,7 +13,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 
 # Jinx Fortnite Builds Archive
 
-## Chapitre 1
+## Chapter 1
 
 ### Season 1
 | Build | JinxArchive | Alternative |
@@ -52,7 +52,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 3.50.1 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/72bd4b04-37b8-40c5-96ba-593adfe82a07/build) |
 | 3.06 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-3.06.zip)  [FortForge](https://dl.fortforge.co.uk/download/fa08445e-4cea-41aa-9d38-6ac3c946a1e8/build) |
 
-### Season 4
+### Season 4 (Event)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 4.00 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-4.0.zip)  [FortForge](https://dl.fortforge.co.uk/download/f877d712-3ab1-4f59-be3d-dbea968146c4/build)|
@@ -65,7 +65,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 4.05 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-4.5.rar)  [FortForge](https://dl.fortforge.co.uk/download/a0e18e8a-6c2f-4259-b514-85dbed080456/build) |
 | 4.10 | Unvailable | [Fn-Builds.com](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTQuMTAtQ0wtNDA1MzUzMi56aXA&start=1) |
 
-### Season 5
+### Season 5 (Mini Event)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 5.00 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-5.00.rar)  [FortForge](https://dl.fortforge.co.uk/download/4a3d630f-8773-4089-8241-6217f7b68a87/build)|
@@ -78,7 +78,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 5.40 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-5.40.rar)  [FortForge](https://dl.fortforge.co.uk/download/fc4a8c5b-8a42-419c-8f37-3147c49c1670/build)|
 | 5.41 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-5.41.zip)  [FortForge](https://dl.fortforge.co.uk/download/85316c09-21c8-4cd3-a4a0-f99e5c805922/build) [Fn-Builds.com](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTUuNDEtQ0wtNDM2MzI0MC56aXA&start=1)|
 
-### Season 6
+### Season 6 (Mini Event)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 6.00 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-6.00.rar)  [FortForge](https://dl.fortforge.co.uk/download/ce0d04f8-bcdf-44a7-adaa-1a1669f8e113/build)|
@@ -95,7 +95,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 6.30 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-6.30.rar)  [FortForge](https://dl.fortforge.co.uk/download/ca6d0499-5bef-425d-898d-8a076719a66f/build)|
 | 6.31 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-6.31.rar)  [FortForge](https://dl.fortforge.co.uk/download/55be7b8c-68d0-4297-8284-62203f77ca47/build)  [Archive.org](https://archive.org/download/Fortnite-6.31-CL-4573279.rar/6.31-CL-4573279.rar) [Fn-Builds.com](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTYuMzEtQ0wtNDU3MzI3OS5yYXI&start=1)|
 
-### Season 7
+### Season 7 (Mini Event)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 7.00 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-7.00.rar)  [FortForge](https://dl.fortforge.co.uk/download/69a30a27-2b2a-4413-b1b2-4448f5df6d84/build)|
@@ -105,7 +105,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 7.30 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-7.30.zip)  [FortForge](https://dl.fortforge.co.uk/download/839b239b-4a94-4559-9ca2-d658493ced6c/build)|
 | 7.40 | [JinxArchive](https://bstlar.com/18229/7.40) | [Reboot](https://builds.rebootfn.org/windows-7.40.rar)  [FortForge](https://dl.fortforge.co.uk/download/855fd721-fb75-43bd-b78a-d74b19a50301/build) [Archive.org](https://archive.org/download/7.40_20260909/7.40.zip)|
 
-### Season 8
+### Season 8 (Event)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 8.00 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-8.00.zip) [FortForge](https://dl.fortforge.co.uk/download/010d2eab-d364-46b4-b7da-026f29f73fa6/build)|
@@ -116,7 +116,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 8.50 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-8.50.zip)  [FortForge](https://dl.fortforge.co.uk/download/3782699d-02a6-45ff-9df5-a9263509b755/build)|
 | 8.51 | [JinxArchive](https://bstlar.com/18229/8.51) | [Reboot](https://builds.rebootfn.org/windows-8.51.rar)  [FortForge](https://dl.fortforge.co.uk/download/a714418b-4171-42cf-ba01-04d0b5e42a5c/build)  [Archive.org](https://archive.org/download/fortnite-release-8.51-cl-6165369/%2B%2BFortnite%2BRelease-8.51-CL-6165369.zip) [Fn-Builds.com](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTguNTEtQ0wtNjE2NTM2OS56aXA&start=1)|
 
-### Season 9
+### Season 9 (Event)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 9.00 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-9.00.zip)  [FortForge](https://dl.fortforge.co.uk/download/fa0f0970-4d96-48fb-803c-ca6192a0394e/build)|
@@ -128,7 +128,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 9.40 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-9.40.zip)  [FortForge](https://dl.fortforge.co.uk/download/672c6495-4458-441e-b855-4e79a6ca63e7/build) [Archive.org](https://archive.org/download/9.40.7z/9.40.7z)|
 | 9.41 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-9.41.rar)  [FortForge](https://dl.fortforge.co.uk/download/eac344ac-d7fd-4322-8792-d5322d1ea681/build)|
 
-### Season X (Season 10)
+### Season X (Season 10 / Event)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 10.00 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-10.00.zip)  [FortForge](https://dl.fortforge.co.uk/download/09bb404a-7e36-44b0-a922-5b31d56a1a85/build) [Fn-Builds.com](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTEwLjAwLUNMLTc2NTgxNzkuN3o&start=1)|
@@ -140,9 +140,9 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 
 ---
 
-## Chapitre 2
+## Chapter 2
 
-### Season 11 (C2S1)
+### Season 11 (C2S1 / Event)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 11.00 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-11.00.zip)  [FortForge](https://dl.fortforge.co.uk/download/ce1d4eaf-cd22-4afc-b480-c751110b95d1/build) [Archive.org](https://archive.org/download/Fortnite-11.00-CL-9562734.7z/11.00-CL-9562734.7z) [Fn-Builds.com](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTExLjAwLUNMLTk1NjI3MzQuN3o&start=1)|
@@ -156,7 +156,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 11.40 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-11.40.zip)  [FortForge](https://dl.fortforge.co.uk/download/25e2e892-e9c1-4b24-8ac5-05f6d00a15e4/build)  [Archive.org](https://archive.org/download/fn-v11-archive/builds/11.40-CL-11039906.7z)|
 | 11.50 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-11.50.zip)  [FortForge](https://dl.fortforge.co.uk/download/033309b3-6b68-4bae-9730-e20a49488544/build)  [Carbon](https://cdn.cbn.lol/11.50)  [Archive.org](https://archive.org/download/fn-v11-archive/builds/11.50-CL-11265652.7z)|
 
-### Season 12 (C2S2)
+### Season 12 (C2S2 / Event)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 12.00 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-12.00.zip)  [FortForge](https://dl.fortforge.co.uk/download/cffbc90f-93ad-40ee-bef7-8945261a84be/build)|
@@ -178,7 +178,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 13.30 | Unvailable | FortForge |
 | 13.40 | [JinxArchive](https://bstlar.com/18229/13.40) | [FortForge](https://dl.fortforge.co.uk/t/c7a8b03f2d6114a130542c4d725b9cb45b7c134016480cf4) |
 
-### Season 14 (C2S4 - Marvel)
+### Season 14 (C2S4 - Marvel / Event)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 14.00 | Unvailable | Unvailable |
@@ -210,7 +210,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 16.40 | [JinxArchive](https://bstlar.com/18229/16.40) | [Reboot](https://builds.rebootfn.org/windows-16.40.zip)  [FortForge](https://dl.fortforge.co.uk/download/794940b5-e62d-4a6e-9752-f90bf54cc1b6/build)|
 | 16.50 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-16.50.zip) |
 
-### Season 17 (C2S7)
+### Season 17 (C2S7 / Event)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 17.00 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-17.00.rar)  [FortForge](https://dl.fortforge.co.uk/download/cb650026-6682-45ef-8452-13de9394f424/build)  [Carbon](https://cdn.cbn.lol/17.00)|
@@ -233,7 +233,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 
 ---
 
-## Chapitre 3
+## Chapter 3
 
 ### Season 19 (C3S1)
 | Build | JinxArchive | Alternative |
@@ -246,7 +246,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 19.34 | Unvailable | Unvailable |
 | 19.40 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-19.40.zip)  [FortForge](https://dl.fortforge.co.uk/download/148c15f5-6ce8-4ee6-9655-501f691792c1/build)|
 
-### Season 20 (C3S2)
+### Season 20 (C3S2 / Event)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 20.00 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-20.00.rar)  [Carbon](https://cdn.cbn.lol/20.00) |
@@ -266,7 +266,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 21.50 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-21.50.zip)  [FortForge](https://dl.fortforge.co.uk/download/f1937854-2514-4236-a46a-550c292e8b2a/build)  [Carbon](https://cdn.cbn.lol/21.50)|
 | 21.51 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-21.51.zip) [Fn-Builds.com](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTIxLjUxLUNMLTIxNzM1NzAzLjd6&start=1) [FortForge](https://dl.fortforge.co.uk/download/7e6e9462-8639-4f9c-b7fd-ba0c0b6b5e70/build)|
 
-### Season 22 (C3S4)
+### Season 22 (C3S4 / Event)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 22.00 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-22.00.zip)  [FortForge](https://dl.fortforge.co.uk/download/1701749a-ad06-4b2c-ae11-d8f60a47c6f6/build)  [Carbon](https://cdn.cbn.lol/22.00)|
@@ -277,7 +277,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 
 ---
 
-## Chapitre 4
+## Chapter 4
 
 ### Season 23 (C4S1)
 | Build | JinxArchive | Alternative |
@@ -316,7 +316,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 26.20 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/ce0b5553-7c4a-4af2-9445-6ef1f811a698/build) |
 | 26.30 | [JinxArchive](https://bstlar.com/18229/26.30) | [FnBuild.com](https://fn-builds.com/build/fortnite-26-30-cl-28509302-zip) [Fn-Builds.com](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTI2LjMwLUNMLTI4NTA5MzAyLnppcA&start=1) |
 
-### Season 27 (Fortnite OG)
+### Season 27 (Fortnite OG / Event)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 27.00 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-27.00.zip)  [Carbon](https://cdn.cbn.lol/27.00)|
@@ -325,9 +325,9 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 
 ---
 
-## Chapitre 5
+## Chapter 5
 
-### Season 28 (C5S1 - Underground)
+### Season 28 (C5S1 - Underground / Mini Event)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 28.00 | [JinxArchive](https://bstlar.com/18229/28.00) | [Gofile](https://gofile.io/d/uDTffQ) |
@@ -336,7 +336,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 28.20 | Unvailable | Unvailable |
 | 28.30 | [JinxArchive](https://bstlar.com/18229/28.30) | [FortForge](https://dl.fortforge.co.uk/download/48d3ac1b-baae-49f0-9353-1264114de009/build) [Archive.org](https://archive.org/download/28.30-cl-31511038.7z/28.30-CL-31511038.7z) |
 
-### Season 29 (C5S2 - Myths & Mortals)
+### Season 29 (C5S2 - Myths & Mortals / Mini Event)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 29.00 | [JinxArchive](https://bstlar.com/18229/29.00) | [Gofile](https://gofile.io/d/cw0eee)  [Gofile 2 (Direct Link)](https://store8.gofile.io/download/web/4f6fd32e-9eff-4c66-9b2d-02f1273fdf78/29.00-CL-32116959.7z)|
@@ -346,7 +346,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 29.30 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/38052f13-5afc-429a-a361-7a559285b5b4/build) |
 | 29.40 | Unvailable | Unvailable |
 
-### Season 30 (C5S3 - Wrecked)
+### Season 30 (C5S3 - Wrecked / Mini Event)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 30.00 | Unvailable | [Gofile](https://gofile.io/d/cd602fc3-ad17-47e9-8939-0e1bda7ef90d)  [Gofile 2](https://gofile.io/d/ZjRYts)  [Gofile 3 (direct download)](https://cold-eu-agl-1.gofile.io/download/web/ffa037a2-b070-4941-875b-6158b5b131fa/%2B%2BFortnite%2BRelease-30.00-CL-33962396.rar)|
@@ -355,7 +355,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 30.30 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/8b9818ef-ae3e-49e5-9e62-e3100ccbcffe/build) |
 | 30.40 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/b62d9559-9608-4d43-ad46-8cb1c39e1366/build) |
 
-### Season 31 (C5S4 - Absolute Doom)
+### Season 31 (C5S4 - Absolute Doom / Event)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 31.00 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/ff75e8c0-0a5f-4e96-aef6-9fe390275c45/build) |
@@ -365,7 +365,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 31.40 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/ab5f64a1-f49e-4a3c-add2-f31c33e7ca53/build) |
 | 31.41 | Unvailable | [Gofile](https://gofile.io/d/32cce581-05c7-4f1f-aad3-a21ab207b418) |
 
-### Season 32 (Chapter 2 Remix)
+### Season 32 (Chapter 2 Remix / Event)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 32.00 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/883222a4-66c1-4b6a-ac21-840e496556ea/build) |
@@ -374,7 +374,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 
 ---
 
-## Chapitre 6
+## Chapter 6
 
 ### Season 33 (C6S1)
 | Build | JinxArchive | Alternative |
@@ -396,7 +396,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 34.30 | Unvailable | FortForge |
 | 34.40 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-34.40.rar)  [FortForge](https://dl.fortforge.co.uk/download/79f6cb57-2b07-4214-a944-04ef394be7ad/build)|
 
-### Season 35 (C6S3)
+### Season 35 (C6MS1)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 35.00 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/1eecd270-ab42-42ed-b84b-29d890062daa/build) |
@@ -405,7 +405,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 35.30 | Unvailable | Unvailable |
 | 35.40 | Unvailable | Unvailable |
 
-### Season 36 (C6S4)
+### Season 36 (C6S3)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 36.00 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/cc63956c-f722-4bd7-a44a-90eac9bf1063/build) |
@@ -414,7 +414,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 36.30 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/e48aec4d-5aa2-4af8-8515-d83d0d386009/build) |
 | 36.40 | Unvailable | FortForge |
 
-### Season 37 (C6S5 / Event)
+### Season 37 (C6S4 / Event)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 37.00 | Unvailable | Unvailable |
@@ -426,22 +426,19 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 37.50 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/92cef413-3caf-45a2-8529-8d2545bc0758/build) |
 | 37.51 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/10d9c479-67ca-460e-85d5-876ae692f11b/build) |
 
----
 
-## Chapitre 7
-
-### Season 38 (C7S1)
+### Season 38 (C6MS2 / Event)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 38.00 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/87602ce4-b6e6-4ea0-a7cc-1bc57fa01294/build) |
 | 38.10 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/8a6de440-f43f-4439-b14f-42e89dc43459/build) |
 | 38.11 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/c2359619-2f35-415a-9800-c580d680294f/build) [Fn-Builds.com](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTM4LjExLUNMLTQ4MzkwODI4LnppcA&start=1) |
-| 38.20 | Unvailable | Unvailable |
-| 38.30 | Unvailable | Unvailable |
-| 38.40 | Unvailable | Unvailable |
-| 38.41 | Unvailable | Unvailable |
 
-### Season 39 (C7S2)
+---
+
+## Chapter 7
+
+### Season 39 (C7S1)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 39.00 | Unvailable | Unvailable|
@@ -452,7 +449,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 39.40 | Unvailable | Unvailable |
 | 39.51 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-39.51.rar)  |
 
-### Season 40 (C7S3)
+### Season 40 (C7S2)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 40.00 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/bf0ce144-a89c-4517-8f51-5bacfa15cfe3/build) |
@@ -462,7 +459,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 40.40 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/9c9a7ebe-84aa-4c63-b8d9-2c058fe4e68d/build) |
 | 40.41 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/a6d41a48-d5da-4ad0-9f47-7620e9d1b9dc/build) |
 
-### Season 41 (C7S4)
+### Season 41 (C7S3)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 41.00 | Unvailable | [Fortforge](https://dl.fortforge.co.uk/download/1404a2d7-d9a1-4541-af24-8baa2282c77e/build) |
@@ -471,12 +468,14 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 41.30 | Unvailable | [Fortforge](https://dl.fortforge.co.uk/download/f780e8e1-9e55-4b2e-a37c-acb86ad5e926/build) |
 | 41.40 | Unvailable | Unvailable |
 
-### Season 42 (C7S5 / Actuel)
+### Season 42 (C7S4 / Latest)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
 | 42.00 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/34e37a10-4a84-4cee-861e-a96635693300/build) |
 | 42.10 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/46a93b58-a74e-497d-a623-d7a87e062a9e/build) |
 | 42.20 | Unvailable | [FortForge](https://dl.fortforge.co.uk/download/5f718b03-19e5-4f30-b622-53bd832e5a29/build) |
+| 42.30 | Unvailable | [FortForge](https://fortforge.co.uk/download/c5293b95-34c9-4466-8581-5969d8819287/build) |
+
 
 
 
