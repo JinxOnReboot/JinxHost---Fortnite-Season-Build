@@ -407,7 +407,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 ### Season 36 (C6S4)
 | Build | JinxArchive | Alternative |
 | :--- | :--- | :--- |
-| 36.00 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-36.00.zip) [FortForge](https://ortforge.co.uk/download/cc63956c-f722-4bd7-a44a-90eac9bf1063/build) |
+| 36.00 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-36.00.zip) [FortForge](https://fortforge.co.uk/download/cc63956c-f722-4bd7-a44a-90eac9bf1063/build) |
 | 36.10 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-36.10.zip) [FortForge](https://fortforge.co.uk/download/9714fc43-d942-487e-adc9-7fa15fdc929b/build) |
 | 36.20 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-36.20.zip) [FortForge](https://fortforge.co.uk/download/dbe530e0-9e8f-46ea-b055-6d261a7cf3f0/build) |
 | 36.30 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-36.30.zip) [FortForge](https://fortforge.co.uk/download/e48aec4d-5aa2-4af8-8515-d83d0d386009/build) |
