@@ -218,7 +218,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 17.21 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-17.21.zip)  [FortForge](https://fortforge.co.uk/download/77e5b41b-2b97-440f-8f06-e97df654d220/build)|
 | 17.30 | [JinxArchive](https://bstlar.com/18229/17.30) | [Reboot](https://builds.rebootfn.org/windows-17.30.zip)  [FortForge](https://fortforge.co.uk/download/911ce59c-da59-4ee1-989c-dba9110f7e49/build)  [FortMp.dev](https://cdn.fortmp.dev/17.30.zip)  [Carbon](https://cdn.cbn.lol/17.30)|
 | 17.40 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-17.40.zip)  [FortForge](https://fortforge.co.uk/download/23ef9c56-2fa7-4ca2-baf3-4d87fff6d7f4/build)  [Carbon](https://cdn.cbn.lol/17.40)|
-| 17.50 | [JinxArchive](https://bstlar.com/18229/17.50) | [Reboot](https://builds.rebootfn.org/windows-17.50.zip)  [FortForge](https://fortforge.co.uk/download/895e2220-bf49-4ea4-a8db-a52ff699af73/build?brand=eon)  [Google Drive](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view)|
+| 17.50 | [JinxArchive](https://bstlar.com/18229/17.50) | [Reboot](https://builds.rebootfn.org/windows-17.50.zip)  [FortForge](https://fortforge.co.uk/download/895e2220-bf49-4ea4-a8db-a52ff699af73/build?brand=eon)  [Google Drive](https://drive.google.com/file/d/1VXCEHI5NrvYxRd-PcG_gF-zH9OBIQcee/view) [kikai](https://r2.kikai.win/17.50.zip)|
 
 ### Season 18 (C2S8)
 | Build | JinxArchive | Alternative |
