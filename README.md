@@ -74,7 +74,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 5.21 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-5.21.rar)  [FortForge](https://fortforge.co.uk/download/7c9d43ab-f1d6-4ae3-9dc8-b0781937f159/build) |
 | 5.30 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-5.30.rar)  [FortForge](https://fortforge.co.uk/download/0e6989db-7631-4c38-b687-774c55a383ed/build)|
 | 5.40 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-5.40.rar)  [FortForge](https://fortforge.co.uk/download/fc4a8c5b-8a42-419c-8f37-3147c49c1670/build)|
-| 5.41 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-5.41.zip)  [FortForge](https://fortforge.co.uk/download/85316c09-21c8-4cd3-a4a0-f99e5c805922/build) [Fn-Builds.com](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTUuNDEtQ0wtNDM2MzI0MC56aXA&start=1)|
+| 5.41 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-5.41.zip)  [FortForge](https://fortforge.co.uk/download/85316c09-21c8-4cd3-a4a0-f99e5c805922/build) [Fn-Builds.com](https://fn-builds.com/download.php?id=KytGb3J0bml0ZStSZWxlYXNlLTUuNDEtQ0wtNDM2MzI0MC56aXA&start=1) [OnyxMp](https://cdn.onyxmp.dev/5.41.7z)|
 
 ### Season 6
 | Build | JinxArchive | Alternative |
