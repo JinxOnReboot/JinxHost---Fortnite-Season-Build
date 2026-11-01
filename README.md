@@ -174,7 +174,7 @@ Thank you for downloading seasons from this GitHub repository. Have a great day.
 | 13.00 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-13.00.rar)  [FortForge](https://fortforge.co.uk/download/108ea258-bc5f-473c-8d43-5bc24ba338fb/build)  [Archive.org](https://archive.org/download/fortnite-cl-13715544/Fortnite-cl-13715544.7z)|
 | 13.20 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-13.20.rar)  [Carbon](https://cdn.cbn.lol/13.20)|
 | 13.30 | Unvailable | [Reboot](https://builds.rebootfn.org/windows-13.30.rar) |
-| 13.40 | [JinxArchive](https://bstlar.com/18229/13.40) | [FortForge](https://fortforge.co.uk/download/59a858dc-c973-416d-8b93-70228db2226d/build) |
+| 13.40 | [JinxArchive](https://bstlar.com/18229/13.40) | [Reboot](https://builds.rebootfn.org/windows-13.40.zip) [FortForge](https://fortforge.co.uk/download/59a858dc-c973-416d-8b93-70228db2226d/build) |
 
 ### Season 14 (C2S4 - Marvel)
 | Build | JinxArchive | Alternative |
